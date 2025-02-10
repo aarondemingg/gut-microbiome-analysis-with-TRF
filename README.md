@@ -19,7 +19,7 @@ You will need to install [R](https://www.r-project.org/) and an IDE of your choi
 
 # workflow
 
-I first cleaned and processed the raw data with [DADA2](https://benjjneb.github.io/dada2/tutorial.html) followed by [Paprica](https://github.com/bowmanjeffs/paprica) see here. The full data analysis [here](Desktop/gut-microbiome-analysis-with-TRF/R/analysis.r)
+I first cleaned and processed the raw data with [DADA2](https://benjjneb.github.io/dada2/tutorial.html) followed by [Paprica](https://github.com/bowmanjeffs/paprica) see here. The full data analysis [here](https://github.com/aarondemingg/gut-microbiome-analysis-with-TRF/blob/main/R/analysis.r)
 
 # References 
 
